@@ -25,5 +25,4 @@ The goal of this repository is to build strong programming fundamentals and cons
 * Linked List
 * Stack
 * Queue
-* Trees
-* Graphs
+
