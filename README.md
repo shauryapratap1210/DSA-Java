@@ -8,6 +8,7 @@ This repository contains my practice programs while learning Java and Data Struc
 * Control Flow (If-Else, Switch)
 * Loops (For, While, Do-While)
 * Pattern Programs
+* Functions/Methods
 
 
 ## Language
