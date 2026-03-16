@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 
 public class Scopes {
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class Scopes {
         for(int r=1;r<=5;r++){
             System.out.println(r);  //Block scope
         }
-        System.out.println(r);  // r cant be used because its out of for loop block
+       // System.out.println(r);  // r cant be used because its out of for loop block
     }
 }
