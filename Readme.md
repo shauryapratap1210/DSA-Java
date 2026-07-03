@@ -15,22 +15,23 @@ Welcome to my **DSA in Java** repository! This repository contains my solutions 
 
 ```text
 DSA-Java/
+│── Control-flow-statement/
+│── Loops/
+│── Patterns/
+│── Functions/
 │── Arrays/
-│── Strings/
-│── BinarySearch/
-│── Recursion/
 │── Hashing/
-│── Stack/
-│── Queue/
-│── LinkedList/
-│── Trees/
-│── Graphs/
-│── DynamicProgramming/
-│── Greedy/
-│── SlidingWindow/
-│── TwoPointers/
-│── Backtracking/
-│── BitManipulation/
+│── ArraysByStriver/
+│── Strings/
+│── OOPS/
+│── Collections/
+│── BitwiseOperators/
+│── ArraysByBabbar/
+│── 2-D Arrays/
+│── Basics/
+│── BinarySearch/
+│── Hashing/
+│── Sorting/
 └── README.md
 ```
 
