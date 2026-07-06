@@ -1,6 +1,6 @@
 package BinarySearch;
 
-class SingleElmentInSortedArray {
+public class SingleElmentInSortedArray {
     public static int singleNonDuplicate(int[] arr) {
         /*
          * BRUTE FORCE
